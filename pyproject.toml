@@ -1,0 +1,11 @@
+[project]
+name = "binance-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-groq>=1.0.1",
+    "langchain-mcp-adapters>=0.1.13",
+    "mcp>=1.21.1",
+]
