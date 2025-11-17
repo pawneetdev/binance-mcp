@@ -1,4 +1,8 @@
-# MCP Multi-Server Demo
+# Binance MCP
+
+This repository is for building a Binance MCP server. Currently, it contains test code as I learn how to work with MCP servers, LangChain, and different transport types.
+
+## Current Test Implementation
 
 A demonstration of multiple FastMCP servers using different transport types, integrated with LangChain and Groq LLM.
 
