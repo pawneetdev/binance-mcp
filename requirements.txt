@@ -3,3 +3,4 @@ langchain-mcp-adapters
 fastmcp
 langgraph
 langchain
+httpx
