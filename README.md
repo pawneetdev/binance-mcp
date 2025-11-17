@@ -67,8 +67,16 @@ python client.py
 The client will:
 - Connect to both math (stdio) and weather (http) servers
 - Use Groq's Qwen model to process queries
-- Test math operations: "(3 + 5) X 12"
-- Test weather lookup: "What's the weather in Delhi?"
+- Start an interactive console where you can ask questions
+
+**Example queries:**
+```
+Enter your query: What's 5 + 10?
+Enter your query: What's the weather in Tokyo?
+Enter your query: Calculate 15 multiplied by 8
+```
+
+Type `exit` or `quit` to stop the client.
 
 ## Project Structure
 
