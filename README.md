@@ -148,7 +148,7 @@ For more information about the Binance Spot API:
 
 MIT License - Copyright (c) 2025 Pawneet Singh
 
-See the LICENSE file for full license text.
+See the [LICENSE](LICENSE) file for full license text.
 
 This project uses the REST-to-MCP adapter framework. Refer to the adapter's license for terms and conditions.
 
