@@ -1,3 +1,12 @@
+"""
+Binance MCP Server
+
+MCP server for Binance Spot API integration with Claude Desktop.
+
+MIT License
+Copyright (c) 2025 Pawneet Singh
+"""
+
 from adapter import (
     APIExecutor,
     MCPServer,

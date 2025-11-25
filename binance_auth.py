@@ -2,6 +2,9 @@
 Binance API authentication handler.
 
 Implements HMAC-SHA256 signature authentication for Binance API.
+
+MIT License
+Copyright (c) 2025 Pawneet Singh
 """
 
 import hmac
