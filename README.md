@@ -66,13 +66,11 @@ You should see the server start without errors. Note the absolute paths displaye
 ```json
 {
   "mcpServers": {
-    "binance": {
+    "binance-api": {
       "command": "/absolute/path/to/.venv/bin/python",
-      "args": ["/absolute/path/to/run_server.py"],
-      "env": {
-        "BINANCE_API_KEY": "your_api_key_here",
-        "BINANCE_API_SECRET": "your_api_secret_here"
-      }
+      "args": [
+        "/absolute/path/to/run_server.py"
+      ]
     }
   }
 }
